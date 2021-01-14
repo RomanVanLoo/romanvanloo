@@ -8,12 +8,6 @@ Welcome to my profile!
 I'm Roman, Fullstack developer from 🇧🇪<b>Antwerp, Belgium</b>. Currently living in <b>Brussels</b>.
 
 
-<!-- retro visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/romanvanloo/count.svg" />
-</p>
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -23,8 +17,7 @@ I'm Roman, Fullstack developer from 🇧🇪<b>Antwerp, Belgium</b>. Currently l
 
 
 <!-- BUY ME A COFFEE -->
-<!-- <p><a href="https://www.buymeacoffee.com/romanvl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romanvl" /></a></p><br><br> -->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fufotibayi" data-color="#40DCA5" data-emoji="🌝" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<p><a href="https://www.buymeacoffee.com/romanvl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romanvl" /></a></p><br><br>
 
 
 <!-- Gitub Stats -->
