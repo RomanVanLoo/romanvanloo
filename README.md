@@ -1,33 +1,43 @@
 <!-- ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg) -->
 <!-- CHANGE TO CORRECT COVER PHOTO -->
 
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome to my profile!
-I'm Roman, Fullstack developer from {belgium_flag}<b>Antwerp, Belgium</b>. Currently living in <b>Brussels</b>.
+I'm Roman, Fullstack developer from 🇧🇪<b>Antwerp, Belgium</b>. Currently living in <b>Brussels</b>.
+
 
 <!-- retro visitor counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/romanvanloo/count.svg" />
 </p>
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> </p>
 
+
 <!-- BUY ME A COFFEE -->
-<p><a href="https://www.buymeacoffee.com/romanvl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romanvl" /></a></p><br><br>
+<!-- <p><a href="https://www.buymeacoffee.com/romanvl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="romanvl" /></a></p><br><br> -->
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="fufotibayi" data-color="#40DCA5" data-emoji="🌝" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 
 <!-- Gitub Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanvanloo&show_icons=true&locale=en" alt="romanvanloo" /></p>
 
+
 <!-- Github Streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanvanloo&" alt="romanvanloo" /></p>
 
+
 <!-- Crypto Enthousiast -->
 <!-- Ethereum donate address -->
+
 
 <!-- Linkedin -->
 <a href="https://linkedin.com/in/romanvanloo" target="blank"><img align="center" src="https://github.com/romanvanloo/romanvanloo/blob/master/assets/linkedin.svg" alt="romanvanloo" height="30" width="30" /></a>
