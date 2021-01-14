@@ -2,10 +2,11 @@
 <!-- CHANGE TO CORRECT COVER PHOTO -->
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my profile!
 I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.
+
+Spending most of my time coding back-end RoR, contact me for <b>anything</b>!
 
 
 <!--START_SECTION:waka-->
@@ -13,7 +14,7 @@ I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently 
 
 
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> "Sitting behing your computer won't make you popular" they said. <br>They haven't tried cmd+r I guess</p>
 
 
 <!-- BUY ME A COFFEE -->
