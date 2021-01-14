@@ -10,6 +10,79 @@ Spending most of my time coding back-end RoR, contact me for <b>anything</b>!
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 28 Contributions in the Year 2021
+ > 
+> 📦 77.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   23.32% 
+🌆 Daytime    116 commits    ██████████░░░░░░░░░░░░░░░   40.99% 
+🌃 Evening    79 commits     ███████░░░░░░░░░░░░░░░░░░   27.92% 
+🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   19.79% 
+Tuesday      51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Thursday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     7 repos             ██████████████░░░░░░░░░░░   58.33% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/RomanVanLoo/RomanVanLoo/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
