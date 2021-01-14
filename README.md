@@ -5,7 +5,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome to my profile!
-I'm Roman, Fullstack developer from 🇧🇪<b>Antwerp, Belgium</b>. Currently living in <b>Brussels</b>.
+I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.
 
 
 <!--START_SECTION:waka-->
