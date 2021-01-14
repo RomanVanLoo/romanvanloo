@@ -22,8 +22,7 @@ I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently 
 
 <!-- Gitub Stats -->
 <!-- Github Streak -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=romanvanloo&show_icons=true&locale=en" alt="romanvanloo" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=romanvanloo&" alt="romanvanloo" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=romanvanloo&" alt="romanvanloo" /></p>
 
 
 <!-- Crypto Enthousiast -->
