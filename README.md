@@ -8,71 +8,74 @@ I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently 
 
 Spending most of my time coding back-end RoR, contact me for <b>anything</b>!
 
+<!-- PROFILE VIEWS, no idea if this will be depressing haha -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> <br>"Sitting behing your computer won't make you popular", they said. <br>I guess they haven't tried CMD+r </p>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 28 Contributions in the Year 2021
- > 
-> 📦 77.0 kB Used in Github's Storage 
- > 
+ >
+> 📦 77.0 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 4 Public Repositories
+ >
+> 🔑 5 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   23.32% 
-🌆 Daytime    116 commits    ██████████░░░░░░░░░░░░░░░   40.99% 
-🌃 Evening    79 commits     ███████░░░░░░░░░░░░░░░░░░   27.92% 
+🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   23.32%
+🌆 Daytime    116 commits    ██████████░░░░░░░░░░░░░░░   40.99%
+🌃 Evening    79 commits     ███████░░░░░░░░░░░░░░░░░░   27.92%
 🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   19.79% 
-Tuesday      51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Thursday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44% 
-Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
-Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   19.79%
+Tuesday      51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02%
+Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61%
+Thursday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44%
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Brussels
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
+**I Mostly Code in Ruby**
 
 ```text
-Ruby                     7 repos             ██████████████░░░░░░░░░░░   58.33% 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Ruby                     7 repos             ██████████████░░░░░░░░░░░   58.33%
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
@@ -80,14 +83,12 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/RomanVanLoo/RomanVanLoo/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/RomanVanLoo/RomanVanLoo/master/charts/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
 
 
-<!-- PROFILE VIEWS, no idea if this will be depressing haha -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> "Sitting behing your computer won't make you popular" they said. <br>They haven't tried cmd+r I guess</p>
 
 
 <!-- BUY ME A COFFEE -->
