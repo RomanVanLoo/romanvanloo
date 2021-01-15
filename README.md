@@ -8,7 +8,7 @@
 <p align=center>Feel free to contact me if you need my help!</p><br><br>
 
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86927%20lines%20of%20code-blue)
