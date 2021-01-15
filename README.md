@@ -6,11 +6,12 @@
 
 I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.
 
-Spending most of my time coding back-end RoR, contact me for <b>anything</b>!
+Spending most of my time coding back-end RoR
+
+Feel free to contact me if you need my help!
 
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> <br>"Sitting behing your computer won't make you popular", they said. <br>I guess they haven't tried CMD+r </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
