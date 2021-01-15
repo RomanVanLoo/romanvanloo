@@ -1,4 +1,4 @@
-![Banner](https://github.com/romanvanloo/romanvanloo/blob/master/dark_forest_name.pdf)
+![Banner](https://github.com/RomanVanLoo/romanvanloo/blob/master/dark_forest_name.pdf)
 ### Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.
