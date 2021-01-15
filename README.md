@@ -3,7 +3,7 @@
 
 <p align=center>I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.</p>
 
-<p align=center>Spending most of my time coding back-end RoR</p>
+<p align=center>Spending most of my time coding back-end RoR<br>& investing in crypto's</p>
 
 <p align=center>Feel free to contact me if you need my help!</p><br><br>
 
