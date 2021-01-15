@@ -1,11 +1,11 @@
-![Banner](https://github.com/RomanVanLoo/romanvanloo/blob/master/Artboard-1-100.jpg)
-### Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![Banner](https://github.com/RomanVanLoo/romanvanloo/blob/master/Artboard-1@4x-8.png)
+<h2 align=center> Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.
+<p align=center>I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently living in 🏠<b>Brussels</b>.</p>
 
-Spending most of my time coding back-end RoR
+<p align=center>Spending most of my time coding back-end RoR</p>
 
-Feel free to contact me if you need my help!
+<p align=center>Feel free to contact me if you need my help!</p><br><br>
 
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p>
