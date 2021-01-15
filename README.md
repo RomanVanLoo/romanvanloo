@@ -5,7 +5,7 @@
 
 <p align=center>Spending most of my time coding back-end RoR<br>& investing in crypto's</p>
 
-<p align=center>Feel free to contact me if you need my help!</p><br>
+<p align=center>Feel free to contact me if you need my help!</p>
 <p align=center>----------------------------------------------------------------------------------</p>
 <!-- PROFILE VIEWS, no idea if this will be depressing haha -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p>
