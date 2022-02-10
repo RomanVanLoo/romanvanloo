@@ -1,7 +1,7 @@
 ![Banner](https://github.com/RomanVanLoo/romanvanloo/blob/master/Artboard-1@4x-8.png)
 <h2 align=center> Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align=center>I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently 🏠living in <b>Brussels</b>.</p>
+<p align=center>I'm Roman, Fullstack developer from 🇧🇪 <b>Antwerp, Belgium</b>. Currently 🏠living in <b>Ericeira</b>.</p>
 
 <p align=center>Spending most of my time coding back-end RoR &<br>investing in Ξ crypto's Ξ</p>
 
