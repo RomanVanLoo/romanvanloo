@@ -5,7 +5,7 @@
 
 <p align=center>Spending most of my time coding back-end RoR &<br>investing in Ξ crypto's Ξ</p>
 
-<p align=center>Feel free to contact me if you need my help!</p>
+<p align=center>Feel free to contact me <a href="https://www.linkedin.com/in/roman-van-loo/">on linkedin</a> if you need me! </p>
 <p align=center>----------------------------------------------------------------------------------</p>
 <!-- Languages + Tools icons -->
 <h3 align="center">Languages and Tools<br><br>Good ⬅️➡️  Bad:</h3>
