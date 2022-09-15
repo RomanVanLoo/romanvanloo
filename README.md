@@ -15,12 +15,35 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=romanvanloo&label=Profile%20views&color=0e75b6&style=flat" alt="romanvanloo" /> My road to POPULARITY</p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120%20Thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 14/09/2022 18:57:06 UTC
+```text
+🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+🌆 Daytime    114 commits    ███████░░░░░░░░░░░░░░░░░░   29.77% 
+🌃 Evening    153 commits    ██████████░░░░░░░░░░░░░░░   39.95% 
+🌙 Night      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+Tuesday      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Wednesday    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+Thursday     96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.07% 
+Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
+Sunday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27%
+
+```
+
+
+
+ Last Updated on 15/09/2022 18:55:20 UTC
 <!--END_SECTION:waka-->
 
 
